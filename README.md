@@ -1,2 +1,2 @@
 # NLP Review Analyzer
-This is a Python notebook that scrapes Google Play for the reviews of 10 popular fitness apps and uses NLP to identify ways to improve fitness apps.
+This Python notebook analyzes user reviews from 10 popular fitness apps on Google Play, using web scraping and NLP techniques to uncover insights for improving app functionality and user experience.
